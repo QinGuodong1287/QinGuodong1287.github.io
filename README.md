@@ -13,3 +13,6 @@ This repository is a index of my repositories.
 ## My profile
 
 [https://github.com/QinGuodong1287](https://github.com/QinGuodong1287)
+
+## In the end
+Welcome to [have discussions](https://github.com/QinGuodong1287/QinGuodong1287.github.io/discussions) in this repository!
